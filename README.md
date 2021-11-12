@@ -8,10 +8,9 @@ Currently, I am **looking for coop / internship opportunities in the summer of 2
 
 Some of the technologies / domains I am skilled in are:
 
-1. Javascript   3. HTML / CSS  5. Node.js  7. MongoDB
-2. Python       4. React.js    6. SQL      8. Data Science / Analysis
-
-In my free time, I am looking to contribute in Open source projects, learning Rust and levelling up my data science knowledge.
+> Javascript, Python, HTML / CSS, Node.js, React.js, SQL, MongoDB, Rust, Data Science 
+ 
+In my free time, I am looking forward to collaborate and contribute to Open source projects, learning Rust and levelling up my data science knowledge.
 
 I love to cook, read and run as hobbies!
 
