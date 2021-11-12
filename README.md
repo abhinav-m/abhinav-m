@@ -4,7 +4,7 @@ I am **Abhinav Mishra** , a graduate student currently pursuing **MS Data Analyt
 
 > Coming from a background of Software Engineering, I have over 4 years of industry experience in building scalable, user centric software engineering products from the ground up. I previously worked at **Times Internet Ltd , India** where I was a part of an amazing team which built e newspaper web applications serving millions of users across India, in different languages.
 
-Currently, I am **looking for coop / internship opportunities in the summer of 2022** as a software engineer intern or data science / analyst intern.
+Currently, I am **looking for coop / internship opportunities in the summer of 2022** as a **Software Engineer Intern or Data Science / Analyst intern**.
 
 Some of the technologies / domains I am skilled in are:
 
