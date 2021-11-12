@@ -24,7 +24,7 @@ I love to cook, read and run as hobbies!
 
 If you want to collaborate / hire me, drop me an email at mishra.abhin@northeastern.edu . 
 
-[**RESUME**](./resume)
+[**RESUME**](./Abhinav_Mishra_NEU.pdf)
 
 Social links:
 * [linkedin](https://www.linkedin.com/in/amishra93/)
