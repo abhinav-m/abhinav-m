@@ -10,7 +10,7 @@ Some of the technologies / domains I am skilled in are:
 
 > Javascript, Python, HTML / CSS, Node.js, React.js, SQL, MongoDB, Rust, Data Science 
  
-In my free time, I am looking forward to collaborate and contribute to Open source projects, learning Rust and levelling up my data science knowledge.
+In my free time, I look forward to collaborate and contribute to Open source projects, learning Rust and levelling up my data science knowledge.
 
 I love to cook, read and run as hobbies!
 
