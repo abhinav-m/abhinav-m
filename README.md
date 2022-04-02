@@ -4,7 +4,7 @@ I am **Abhinav Mishra** , a graduate student currently pursuing **MS Data Analyt
 
 > Coming from a background of Software Engineering, I have over 4 years of industry experience in building scalable, user centric software engineering products from the ground up. I previously worked at **Times Internet Ltd , India** where I was a part of an amazing team which built e newspaper web applications serving millions of users across India, in different languages.
 
-Currently, I am **looking for full-time work opportunities during 2023 ** as a **Senior Software Engineer, Senior Product Manager or Machine learning Engineer**.
+Currently, I am **looking for full-time work opportunities during 2023** as a **Senior Software Engineer, Senior Product Manager or Machine learning Engineer**.
 
 Some of the technologies / domains I am skilled in are:
 
