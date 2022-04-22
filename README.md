@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am **Abhinav Mishra** , a graduate student currently pursuing **MS Data Analytics Engineering** from Northeastern University, Boston, MA. (Expected graduation Fall 23).
+I am **Abhinav Mishra** , a graduate student currently pursuing **Masters in Data Analytics Engineering** from Northeastern University, Boston, MA. (Expected graduation Fall 23).
 
 > I come from a background of Product Engineering, with over 4 years of industry experience in building scalable, user centric Software engineering products from the ground up. I previously worked at **Times Internet Ltd , India** where I was a part of an amazing team which built e newspaper web applications serving millions of users across India, in different languages.
 
