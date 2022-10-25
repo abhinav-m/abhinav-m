@@ -14,7 +14,7 @@ In my free time, I look forward to collaborate and contribute to Open source pro
 
 I love to cook, read and run as hobbies!
 
-If you want to collaborate / hire me, drop me an email at mishra.abhin@northeastern.edu . 
+If you want to collaborate / hire me, drop me an email at abhinav_m@hotmail.com
 
 [**RESUME**](./Abhinav_Mishra_NEU.pdf)
 
