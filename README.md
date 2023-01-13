@@ -16,7 +16,7 @@ I love to cook, read and lift as hobbies!
 
 If you want to collaborate / hire me, drop me an email at abhinav_m@hotmail.com
 
-[**RESUME**](./Abhinav_Mishra_NEU.pdf)
+[**RESUME**](./RESUME_ABHINAV_MISHRA.pdf)
 
 Social links:
 * [linkedin](https://www.linkedin.com/in/amishra93/)
