@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I am **Abhinav Mishra** , a graduate student currently pursuing **Masters in Data Analytics Engineering** from Northeastern University, Boston, MA. (Expected graduation Fall 23).
+I am **Abhinav Mishra** , a graduate student currently pursuing **Masters in Data Analytics Engineering** from Northeastern University, Boston, MA. (Expected graduation December 23).
 
 > I come from a background of Software Engineering, with over 4 years of industry experience in **building highly scalable, user centric Software products** from the ground up. Previously, I worked at **Snowflake (San Mateo, CA)** where I was a part of an amazing team building the backend foundation for driving user experience across Snowflake.
 
-Currently, I am **looking for full-time work opportunities during 2023** as a **Senior Software Engineer, Senior Product Manager or Machine learning Engineer**.
+Currently, I am **looking for full-time work opportunities during December 2023 - January 2024** as a **Senior Software Engineer,  Product Manager or Machine learning Engineer**.
 
 Some of the technologies / domains I am skilled in are:
 
