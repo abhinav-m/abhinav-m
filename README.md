@@ -1,16 +1,16 @@
 ### Hello there 👋
 
-I am **Abhinav Mishra** , a graduate student currently pursuing **Masters in Data Analytics Engineering** from Northeastern University, Boston, MA. (Expected graduation December 23).
+I am **Abhinav Mishra** , a Software Engineer working at **Snowflake, CA**. I work in the App Foundation team, building various services and tools using a multitude of languages and tools such as Java, Golang, TypeScript, Docker, Kubernetes etc.
 
-> I come from a background of Software Engineering, with over 4 years of industry experience in **building highly scalable, user centric Software products** from the ground up. Previously, I worked at **Snowflake (San Mateo, CA)** where I was a part of an amazing team building the backend foundation for driving user experience across Snowflake.
+> I come from a background of Software Engineering, with over 4 years of industry experience in **building highly scalable, user centric Software products** from the ground up.
 
-Currently, I am **looking for full-time work opportunities during December 2023 - January 2024** as a **Software Engineer,  Product Manager or Machine learning Engineer**.
+
 
 Some of the technologies / domains I am skilled in are:
 
-> Javascript, Python, GO, Typescript, HTML / CSS, Node.js, React.js, SQL, MongoDB, Data Science, Machine learning
+> Java, GO, Typescript, JavaScript, Python, HTML / CSS, Node.js, React.js, SQL, MongoDB, Data Science, Machine learning
  
-In my free time, I look forward to collaborate and contribute to Open source projects, learning  and levelling up my data science knowledge.
+In my free time, I look forward to collaborate and contribute to Open source projects.
 
 I love to cook, read and lift as hobbies!
 
