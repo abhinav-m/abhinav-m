@@ -8,18 +8,10 @@ Some of the technologies / domains I am skilled in are:
 
 > Java, GO, Typescript, JavaScript, Python, HTML / CSS, Node.js, React.js, SQL, MongoDB, Data Science, Machine learning
  
-In my free time, I look forward to collaborate and contribute to Open source projects.
-
-I love to cook, read and lift as hobbies!
-
 If you want to collaborate / hire me, drop me an email at abhinav_m@hotmail.com
 
 [**RESUME**](./RESUME_ABHINAV_MISHRA.pdf)
 
-Social links:
-* [linkedin](https://www.linkedin.com/in/amishra93/)
-* [blog](https://mishrants.netlify.app)
-* [codepen](https://codepen.io/abhinavthinktank)
-* [portfolio (OLD)](https://abhinav-m.github.io)
+[#readme](https://hashreadme.com/)
 
 
